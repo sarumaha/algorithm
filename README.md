@@ -1,4 +1,5 @@
-# Searching algorithm
+# Description
+Learn various sorting algorithm technique
  
 # Sorting Algorithms
 - Bogo Sort (not implemented yet)
