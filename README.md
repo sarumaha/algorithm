@@ -10,4 +10,15 @@ Learn various sorting algorithm technique
 - Mergesort (not implemented yet)
 - Selection Sort (not implemented yet)
 
+# Pseudocode
+- Bubblesort
+ 
+```
+Bubble Sort(arr, size)
+ for i=0 to n-i-1
+  for j=0 to n-i-2
+   if arr[j]>arr[j+1]
+    Swap arr[j] and arr[j+1]
+```
+
 
