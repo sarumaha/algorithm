@@ -9,6 +9,7 @@ Learn various sorting algorithm technique
 - Bubblesort
 - Mergesort (not implemented yet)
 - Selection Sort (not implemented yet)
+- Insertion Sort
 
 # Pseudocode
 - Bubblesort
